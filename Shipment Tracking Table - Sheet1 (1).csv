@@ -1,0 +1,1041 @@
+Shipment_ID,Order_ID,Checkpoint,Checkpoint_Time,Delay_Reason
+SO00011,O0001,Checkpoint 1,2025-06-09,Weather
+SO00012,O0001,Checkpoint 2,2025-06-09,Sorting Delay
+SO00021,O0002,Checkpoint 1,2025-06-22,Sorting Delay
+SO00022,O0002,Checkpoint 2,2025-06-22,None
+SO00023,O0002,Checkpoint 3,2025-06-23,Sorting Delay
+SO00024,O0002,Checkpoint 4,2025-06-23,Weather
+SO00031,O0003,Checkpoint 1,2025-06-04,Weather
+SO00032,O0003,Checkpoint 2,2025-06-05,Traffic
+SO00033,O0003,Checkpoint 3,2025-06-05,Traffic
+SO00034,O0003,Checkpoint 4,2025-06-05,Weather
+SO00041,O0004,Checkpoint 1,2025-06-28,Traffic
+SO00042,O0004,Checkpoint 2,2025-06-29,Weather
+SO00043,O0004,Checkpoint 3,2025-06-29,Traffic
+SO00044,O0004,Checkpoint 4,2025-06-29,None
+SO00045,O0004,Checkpoint 5,2025-06-29,Traffic
+SO00051,O0005,Checkpoint 1,2025-06-04,None
+SO00052,O0005,Checkpoint 2,2025-06-04,Weather
+SO00053,O0005,Checkpoint 3,2025-06-04,Traffic
+SO00054,O0005,Checkpoint 4,2025-06-04,Sorting Delay
+SO00055,O0005,Checkpoint 5,2025-06-04,Sorting Delay
+SO00061,O0006,Checkpoint 1,2025-07-18,Sorting Delay
+SO00062,O0006,Checkpoint 2,2025-07-18,Traffic
+SO00071,O0007,Checkpoint 1,2025-06-15,Weather
+SO00072,O0007,Checkpoint 2,2025-06-15,Sorting Delay
+SO00073,O0007,Checkpoint 3,2025-06-15,Traffic
+SO00081,O0008,Checkpoint 1,2025-06-23,Sorting Delay
+SO00082,O0008,Checkpoint 2,2025-06-24,None
+SO00091,O0009,Checkpoint 1,2025-07-11,Traffic
+SO00092,O0009,Checkpoint 2,2025-07-11,Traffic
+SO00093,O0009,Checkpoint 3,2025-07-11,None
+SO00101,O0010,Checkpoint 1,2025-06-14,Weather
+SO00102,O0010,Checkpoint 2,2025-06-14,None
+SO00103,O0010,Checkpoint 3,2025-06-15,None
+SO00104,O0010,Checkpoint 4,2025-06-15,Sorting Delay
+SO00111,O0011,Checkpoint 1,2025-05-26,None
+SO00112,O0011,Checkpoint 2,2025-05-26,Weather
+SO00113,O0011,Checkpoint 3,2025-05-26,None
+SO00114,O0011,Checkpoint 4,2025-05-27,None
+SO00115,O0011,Checkpoint 5,2025-05-27,None
+SO00121,O0012,Checkpoint 1,2025-07-16,Sorting Delay
+SO00122,O0012,Checkpoint 2,2025-07-16,None
+SO00123,O0012,Checkpoint 3,2025-07-17,Sorting Delay
+SO00131,O0013,Checkpoint 1,2025-07-16,None
+SO00132,O0013,Checkpoint 2,2025-07-17,Sorting Delay
+SO00141,O0014,Checkpoint 1,2025-07-07,None
+SO00142,O0014,Checkpoint 2,2025-07-08,Weather
+SO00143,O0014,Checkpoint 3,2025-07-08,None
+SO00151,O0015,Checkpoint 1,2025-06-18,Traffic
+SO00152,O0015,Checkpoint 2,2025-06-19,None
+SO00153,O0015,Checkpoint 3,2025-06-19,Traffic
+SO00154,O0015,Checkpoint 4,2025-06-19,Traffic
+SO00155,O0015,Checkpoint 5,2025-06-20,Traffic
+SO00161,O0016,Checkpoint 1,2025-06-26,Traffic
+SO00162,O0016,Checkpoint 2,2025-06-26,Weather
+SO00163,O0016,Checkpoint 3,2025-06-27,Traffic
+SO00164,O0016,Checkpoint 4,2025-06-27,Traffic
+SO00165,O0016,Checkpoint 5,2025-06-27,Traffic
+SO00171,O0017,Checkpoint 1,2025-07-11,None
+SO00172,O0017,Checkpoint 2,2025-07-11,Traffic
+SO00173,O0017,Checkpoint 3,2025-07-12,Sorting Delay
+SO00181,O0018,Checkpoint 1,2025-05-23,Sorting Delay
+SO00182,O0018,Checkpoint 2,2025-05-23,None
+SO00183,O0018,Checkpoint 3,2025-05-24,None
+SO00184,O0018,Checkpoint 4,2025-05-24,Traffic
+SO00185,O0018,Checkpoint 5,2025-05-24,None
+SO00191,O0019,Checkpoint 1,2025-06-29,Weather
+SO00192,O0019,Checkpoint 2,2025-06-29,Sorting Delay
+SO00193,O0019,Checkpoint 3,2025-06-30,Weather
+SO00194,O0019,Checkpoint 4,2025-06-30,Weather
+SO00195,O0019,Checkpoint 5,2025-06-30,Weather
+SO00201,O0020,Checkpoint 1,2025-06-17,None
+SO00202,O0020,Checkpoint 2,2025-06-18,Sorting Delay
+SO00203,O0020,Checkpoint 3,2025-06-18,Weather
+SO00204,O0020,Checkpoint 4,2025-06-18,None
+SO00205,O0020,Checkpoint 5,2025-06-18,None
+SO00211,O0021,Checkpoint 1,2025-07-05,Traffic
+SO00212,O0021,Checkpoint 2,2025-07-05,Weather
+SO00213,O0021,Checkpoint 3,2025-07-05,Weather
+SO00214,O0021,Checkpoint 4,2025-07-06,Sorting Delay
+SO00221,O0022,Checkpoint 1,2025-06-22,Traffic
+SO00222,O0022,Checkpoint 2,2025-06-23,Traffic
+SO00231,O0023,Checkpoint 1,2025-06-10,Weather
+SO00232,O0023,Checkpoint 2,2025-06-10,None
+SO00233,O0023,Checkpoint 3,2025-06-11,Sorting Delay
+SO00241,O0024,Checkpoint 1,2025-06-19,Weather
+SO00242,O0024,Checkpoint 2,2025-06-20,Weather
+SO00243,O0024,Checkpoint 3,2025-06-20,Sorting Delay
+SO00244,O0024,Checkpoint 4,2025-06-21,Sorting Delay
+SO00251,O0025,Checkpoint 1,2025-06-29,Sorting Delay
+SO00252,O0025,Checkpoint 2,2025-06-29,Weather
+SO00253,O0025,Checkpoint 3,2025-06-30,Traffic
+SO00261,O0026,Checkpoint 1,2025-05-22,Weather
+SO00262,O0026,Checkpoint 2,2025-05-22,Weather
+SO00271,O0027,Checkpoint 1,2025-07-06,Sorting Delay
+SO00272,O0027,Checkpoint 2,2025-07-07,Traffic
+SO00273,O0027,Checkpoint 3,2025-07-07,Weather
+SO00281,O0028,Checkpoint 1,2025-07-08,Traffic
+SO00282,O0028,Checkpoint 2,2025-07-09,Traffic
+SO00291,O0029,Checkpoint 1,2025-05-26,Weather
+SO00292,O0029,Checkpoint 2,2025-05-26,Traffic
+SO00301,O0030,Checkpoint 1,2025-06-26,None
+SO00302,O0030,Checkpoint 2,2025-06-26,Sorting Delay
+SO00303,O0030,Checkpoint 3,2025-06-26,None
+SO00304,O0030,Checkpoint 4,2025-06-27,Weather
+SO00305,O0030,Checkpoint 5,2025-06-27,Weather
+SO00311,O0031,Checkpoint 1,2025-05-26,Sorting Delay
+SO00312,O0031,Checkpoint 2,2025-05-26,None
+SO00313,O0031,Checkpoint 3,2025-05-27,Sorting Delay
+SO00321,O0032,Checkpoint 1,2025-05-22,Weather
+SO00322,O0032,Checkpoint 2,2025-05-22,Sorting Delay
+SO00331,O0033,Checkpoint 1,2025-06-16,None
+SO00332,O0033,Checkpoint 2,2025-06-16,Sorting Delay
+SO00333,O0033,Checkpoint 3,2025-06-16,Sorting Delay
+SO00334,O0033,Checkpoint 4,2025-06-16,Weather
+SO00341,O0034,Checkpoint 1,2025-06-25,None
+SO00342,O0034,Checkpoint 2,2025-06-25,None
+SO00343,O0034,Checkpoint 3,2025-06-25,Sorting Delay
+SO00344,O0034,Checkpoint 4,2025-06-25,Sorting Delay
+SO00351,O0035,Checkpoint 1,2025-05-27,Weather
+SO00352,O0035,Checkpoint 2,2025-05-28,Sorting Delay
+SO00361,O0036,Checkpoint 1,2025-06-18,Weather
+SO00362,O0036,Checkpoint 2,2025-06-19,None
+SO00371,O0037,Checkpoint 1,2025-06-09,Traffic
+SO00372,O0037,Checkpoint 2,2025-06-09,Traffic
+SO00381,O0038,Checkpoint 1,2025-05-23,Sorting Delay
+SO00382,O0038,Checkpoint 2,2025-05-23,Sorting Delay
+SO00383,O0038,Checkpoint 3,2025-05-23,Traffic
+SO00384,O0038,Checkpoint 4,2025-05-24,Traffic
+SO00385,O0038,Checkpoint 5,2025-05-24,Weather
+SO00391,O0039,Checkpoint 1,2025-07-10,None
+SO00392,O0039,Checkpoint 2,2025-07-11,Traffic
+SO00393,O0039,Checkpoint 3,2025-07-11,None
+SO00394,O0039,Checkpoint 4,2025-07-11,Sorting Delay
+SO00401,O0040,Checkpoint 1,2025-05-24,None
+SO00402,O0040,Checkpoint 2,2025-05-25,None
+SO00403,O0040,Checkpoint 3,2025-05-25,Weather
+SO00411,O0041,Checkpoint 1,2025-06-05,None
+SO00412,O0041,Checkpoint 2,2025-06-05,Traffic
+SO00413,O0041,Checkpoint 3,2025-06-06,Traffic
+SO00414,O0041,Checkpoint 4,2025-06-06,Weather
+SO00415,O0041,Checkpoint 5,2025-06-06,Sorting Delay
+SO00421,O0042,Checkpoint 1,2025-07-16,None
+SO00422,O0042,Checkpoint 2,2025-07-16,Weather
+SO00423,O0042,Checkpoint 3,2025-07-16,Weather
+SO00424,O0042,Checkpoint 4,2025-07-16,None
+SO00425,O0042,Checkpoint 5,2025-07-16,None
+SO00431,O0043,Checkpoint 1,2025-06-19,Traffic
+SO00432,O0043,Checkpoint 2,2025-06-20,Sorting Delay
+SO00441,O0044,Checkpoint 1,2025-07-16,Sorting Delay
+SO00442,O0044,Checkpoint 2,2025-07-16,None
+SO00443,O0044,Checkpoint 3,2025-07-17,Weather
+SO00451,O0045,Checkpoint 1,2025-06-09,None
+SO00452,O0045,Checkpoint 2,2025-06-09,Traffic
+SO00453,O0045,Checkpoint 3,2025-06-10,Traffic
+SO00454,O0045,Checkpoint 4,2025-06-10,None
+SO00461,O0046,Checkpoint 1,2025-05-27,Sorting Delay
+SO00462,O0046,Checkpoint 2,2025-05-27,None
+SO00463,O0046,Checkpoint 3,2025-05-28,Traffic
+SO00464,O0046,Checkpoint 4,2025-05-28,Traffic
+SO00471,O0047,Checkpoint 1,2025-06-27,Weather
+SO00472,O0047,Checkpoint 2,2025-06-27,Weather
+SO00481,O0048,Checkpoint 1,2025-06-13,Traffic
+SO00482,O0048,Checkpoint 2,2025-06-13,Sorting Delay
+SO00483,O0048,Checkpoint 3,2025-06-13,Sorting Delay
+SO00484,O0048,Checkpoint 4,2025-06-14,Weather
+SO00491,O0049,Checkpoint 1,2025-06-22,None
+SO00492,O0049,Checkpoint 2,2025-06-22,Weather
+SO00493,O0049,Checkpoint 3,2025-06-23,Sorting Delay
+SO00494,O0049,Checkpoint 4,2025-06-23,None
+SO00501,O0050,Checkpoint 1,2025-06-10,Traffic
+SO00502,O0050,Checkpoint 2,2025-06-11,Traffic
+SO00511,O0051,Checkpoint 1,2025-06-08,None
+SO00512,O0051,Checkpoint 2,2025-06-08,None
+SO00513,O0051,Checkpoint 3,2025-06-08,Weather
+SO00521,O0052,Checkpoint 1,2025-05-26,None
+SO00522,O0052,Checkpoint 2,2025-05-26,Traffic
+SO00523,O0052,Checkpoint 3,2025-05-27,None
+SO00524,O0052,Checkpoint 4,2025-05-27,Sorting Delay
+SO00525,O0052,Checkpoint 5,2025-05-27,Traffic
+SO00531,O0053,Checkpoint 1,2025-06-17,Traffic
+SO00532,O0053,Checkpoint 2,2025-06-17,None
+SO00533,O0053,Checkpoint 3,2025-06-17,Traffic
+SO00534,O0053,Checkpoint 4,2025-06-18,Weather
+SO00535,O0053,Checkpoint 5,2025-06-19,Traffic
+SO00541,O0054,Checkpoint 1,2025-06-23,None
+SO00542,O0054,Checkpoint 2,2025-06-24,None
+SO00543,O0054,Checkpoint 3,2025-06-24,Weather
+SO00551,O0055,Checkpoint 1,2025-06-02,Traffic
+SO00552,O0055,Checkpoint 2,2025-06-03,Weather
+SO00553,O0055,Checkpoint 3,2025-06-03,Traffic
+SO00554,O0055,Checkpoint 4,2025-06-03,Weather
+SO00561,O0056,Checkpoint 1,2025-06-01,None
+SO00562,O0056,Checkpoint 2,2025-06-02,Traffic
+SO00571,O0057,Checkpoint 1,2025-06-10,Traffic
+SO00572,O0057,Checkpoint 2,2025-06-10,Traffic
+SO00573,O0057,Checkpoint 3,2025-06-11,Weather
+SO00581,O0058,Checkpoint 1,2025-05-30,Weather
+SO00582,O0058,Checkpoint 2,2025-05-30,Weather
+SO00583,O0058,Checkpoint 3,2025-05-31,Traffic
+SO00591,O0059,Checkpoint 1,2025-06-16,Weather
+SO00592,O0059,Checkpoint 2,2025-06-16,Traffic
+SO00593,O0059,Checkpoint 3,2025-06-17,None
+SO00594,O0059,Checkpoint 4,2025-06-17,None
+SO00595,O0059,Checkpoint 5,2025-06-18,None
+SO00601,O0060,Checkpoint 1,2025-07-15,Sorting Delay
+SO00602,O0060,Checkpoint 2,2025-07-16,Traffic
+SO00603,O0060,Checkpoint 3,2025-07-16,Sorting Delay
+SO00611,O0061,Checkpoint 1,2025-06-18,Sorting Delay
+SO00612,O0061,Checkpoint 2,2025-06-18,Traffic
+SO00613,O0061,Checkpoint 3,2025-06-18,None
+SO00614,O0061,Checkpoint 4,2025-06-18,None
+SO00615,O0061,Checkpoint 5,2025-06-19,Sorting Delay
+SO00621,O0062,Checkpoint 1,2025-07-10,None
+SO00622,O0062,Checkpoint 2,2025-07-10,Sorting Delay
+SO00623,O0062,Checkpoint 3,2025-07-10,Weather
+SO00631,O0063,Checkpoint 1,2025-06-18,None
+SO00632,O0063,Checkpoint 2,2025-06-18,Weather
+SO00633,O0063,Checkpoint 3,2025-06-18,Weather
+SO00641,O0064,Checkpoint 1,2025-06-27,Traffic
+SO00642,O0064,Checkpoint 2,2025-06-28,Weather
+SO00643,O0064,Checkpoint 3,2025-06-28,Traffic
+SO00644,O0064,Checkpoint 4,2025-06-28,Sorting Delay
+SO00651,O0065,Checkpoint 1,2025-07-13,None
+SO00652,O0065,Checkpoint 2,2025-07-14,Weather
+SO00653,O0065,Checkpoint 3,2025-07-14,Sorting Delay
+SO00654,O0065,Checkpoint 4,2025-07-14,Weather
+SO00655,O0065,Checkpoint 5,2025-07-14,Sorting Delay
+SO00661,O0066,Checkpoint 1,2025-06-09,Weather
+SO00662,O0066,Checkpoint 2,2025-06-10,Sorting Delay
+SO00663,O0066,Checkpoint 3,2025-06-10,Traffic
+SO00664,O0066,Checkpoint 4,2025-06-10,Traffic
+SO00665,O0066,Checkpoint 5,2025-06-10,None
+SO00671,O0067,Checkpoint 1,2025-06-16,Sorting Delay
+SO00672,O0067,Checkpoint 2,2025-06-16,None
+SO00673,O0067,Checkpoint 3,2025-06-16,None
+SO00674,O0067,Checkpoint 4,2025-06-16,Weather
+SO00675,O0067,Checkpoint 5,2025-06-17,Weather
+SO00681,O0068,Checkpoint 1,2025-06-18,None
+SO00682,O0068,Checkpoint 2,2025-06-19,Sorting Delay
+SO00691,O0069,Checkpoint 1,2025-07-09,Traffic
+SO00692,O0069,Checkpoint 2,2025-07-09,Sorting Delay
+SO00693,O0069,Checkpoint 3,2025-07-10,Sorting Delay
+SO00694,O0069,Checkpoint 4,2025-07-11,Traffic
+SO00701,O0070,Checkpoint 1,2025-06-08,Sorting Delay
+SO00702,O0070,Checkpoint 2,2025-06-08,Weather
+SO00703,O0070,Checkpoint 3,2025-06-08,Weather
+SO00704,O0070,Checkpoint 4,2025-06-08,Weather
+SO00705,O0070,Checkpoint 5,2025-06-09,Sorting Delay
+SO00711,O0071,Checkpoint 1,2025-06-14,None
+SO00712,O0071,Checkpoint 2,2025-06-15,Sorting Delay
+SO00713,O0071,Checkpoint 3,2025-06-15,Traffic
+SO00721,O0072,Checkpoint 1,2025-06-18,Traffic
+SO00722,O0072,Checkpoint 2,2025-06-18,Sorting Delay
+SO00731,O0073,Checkpoint 1,2025-07-06,Traffic
+SO00732,O0073,Checkpoint 2,2025-07-06,Sorting Delay
+SO00733,O0073,Checkpoint 3,2025-07-07,Weather
+SO00734,O0073,Checkpoint 4,2025-07-07,None
+SO00741,O0074,Checkpoint 1,2025-06-10,Sorting Delay
+SO00742,O0074,Checkpoint 2,2025-06-10,Sorting Delay
+SO00743,O0074,Checkpoint 3,2025-06-10,Traffic
+SO00744,O0074,Checkpoint 4,2025-06-10,None
+SO00745,O0074,Checkpoint 5,2025-06-12,None
+SO00751,O0075,Checkpoint 1,2025-07-03,Weather
+SO00752,O0075,Checkpoint 2,2025-07-03,Weather
+SO00753,O0075,Checkpoint 3,2025-07-04,Weather
+SO00754,O0075,Checkpoint 4,2025-07-04,Traffic
+SO00755,O0075,Checkpoint 5,2025-07-04,None
+SO00761,O0076,Checkpoint 1,2025-06-11,Weather
+SO00762,O0076,Checkpoint 2,2025-06-11,None
+SO00763,O0076,Checkpoint 3,2025-06-12,Sorting Delay
+SO00771,O0077,Checkpoint 1,2025-07-08,Weather
+SO00772,O0077,Checkpoint 2,2025-07-09,Weather
+SO00781,O0078,Checkpoint 1,2025-05-24,None
+SO00782,O0078,Checkpoint 2,2025-05-24,Traffic
+SO00783,O0078,Checkpoint 3,2025-05-24,Weather
+SO00791,O0079,Checkpoint 1,2025-07-20,None
+SO00792,O0079,Checkpoint 2,2025-07-20,None
+SO00793,O0079,Checkpoint 3,2025-07-21,Weather
+SO00801,O0080,Checkpoint 1,2025-06-27,None
+SO00802,O0080,Checkpoint 2,2025-06-27,Sorting Delay
+SO00803,O0080,Checkpoint 3,2025-06-27,None
+SO00804,O0080,Checkpoint 4,2025-06-27,Weather
+SO00811,O0081,Checkpoint 1,2025-06-10,None
+SO00812,O0081,Checkpoint 2,2025-06-10,Weather
+SO00813,O0081,Checkpoint 3,2025-06-10,Weather
+SO00814,O0081,Checkpoint 4,2025-06-11,Traffic
+SO00821,O0082,Checkpoint 1,2025-07-13,None
+SO00822,O0082,Checkpoint 2,2025-07-13,Sorting Delay
+SO00823,O0082,Checkpoint 3,2025-07-14,Weather
+SO00824,O0082,Checkpoint 4,2025-07-14,Weather
+SO00825,O0082,Checkpoint 5,2025-07-14,None
+SO00831,O0083,Checkpoint 1,2025-07-04,Sorting Delay
+SO00832,O0083,Checkpoint 2,2025-07-04,Sorting Delay
+SO00841,O0084,Checkpoint 1,2025-07-03,Traffic
+SO00842,O0084,Checkpoint 2,2025-07-04,None
+SO00843,O0084,Checkpoint 3,2025-07-04,Weather
+SO00851,O0085,Checkpoint 1,2025-07-12,Traffic
+SO00852,O0085,Checkpoint 2,2025-07-13,None
+SO00853,O0085,Checkpoint 3,2025-07-13,None
+SO00854,O0085,Checkpoint 4,2025-07-13,Weather
+SO00861,O0086,Checkpoint 1,2025-05-30,Traffic
+SO00862,O0086,Checkpoint 2,2025-05-30,None
+SO00863,O0086,Checkpoint 3,2025-05-31,Sorting Delay
+SO00871,O0087,Checkpoint 1,2025-06-07,Sorting Delay
+SO00872,O0087,Checkpoint 2,2025-06-07,Sorting Delay
+SO00873,O0087,Checkpoint 3,2025-06-08,Sorting Delay
+SO00881,O0088,Checkpoint 1,2025-06-26,Weather
+SO00882,O0088,Checkpoint 2,2025-06-27,Weather
+SO00891,O0089,Checkpoint 1,2025-06-29,Sorting Delay
+SO00892,O0089,Checkpoint 2,2025-06-29,Sorting Delay
+SO00893,O0089,Checkpoint 3,2025-06-30,Weather
+SO00894,O0089,Checkpoint 4,2025-06-30,None
+SO00901,O0090,Checkpoint 1,2025-07-08,Weather
+SO00902,O0090,Checkpoint 2,2025-07-08,Sorting Delay
+SO00903,O0090,Checkpoint 3,2025-07-09,Traffic
+SO00911,O0091,Checkpoint 1,2025-06-10,Weather
+SO00912,O0091,Checkpoint 2,2025-06-11,Weather
+SO00913,O0091,Checkpoint 3,2025-06-11,Sorting Delay
+SO00921,O0092,Checkpoint 1,2025-06-30,Sorting Delay
+SO00922,O0092,Checkpoint 2,2025-07-01,Weather
+SO00923,O0092,Checkpoint 3,2025-07-01,Sorting Delay
+SO00924,O0092,Checkpoint 4,2025-07-01,Sorting Delay
+SO00931,O0093,Checkpoint 1,2025-06-27,Traffic
+SO00932,O0093,Checkpoint 2,2025-06-27,Sorting Delay
+SO00941,O0094,Checkpoint 1,2025-06-06,Traffic
+SO00942,O0094,Checkpoint 2,2025-06-06,Sorting Delay
+SO00943,O0094,Checkpoint 3,2025-06-07,Traffic
+SO00951,O0095,Checkpoint 1,2025-05-23,Weather
+SO00952,O0095,Checkpoint 2,2025-05-24,Sorting Delay
+SO00953,O0095,Checkpoint 3,2025-05-25,Traffic
+SO00961,O0096,Checkpoint 1,2025-06-21,None
+SO00962,O0096,Checkpoint 2,2025-06-21,Weather
+SO00963,O0096,Checkpoint 3,2025-06-21,Traffic
+SO00964,O0096,Checkpoint 4,2025-06-22,Weather
+SO00971,O0097,Checkpoint 1,2025-06-01,Sorting Delay
+SO00972,O0097,Checkpoint 2,2025-06-01,None
+SO00973,O0097,Checkpoint 3,2025-06-02,Sorting Delay
+SO00974,O0097,Checkpoint 4,2025-06-02,None
+SO00975,O0097,Checkpoint 5,2025-06-02,Weather
+SO00981,O0098,Checkpoint 1,2025-06-29,Weather
+SO00982,O0098,Checkpoint 2,2025-06-29,Traffic
+SO00983,O0098,Checkpoint 3,2025-06-29,Sorting Delay
+SO00984,O0098,Checkpoint 4,2025-06-29,Weather
+SO00985,O0098,Checkpoint 5,2025-06-29,None
+SO00991,O0099,Checkpoint 1,2025-05-25,Traffic
+SO00992,O0099,Checkpoint 2,2025-05-25,Sorting Delay
+SO00993,O0099,Checkpoint 3,2025-05-26,Sorting Delay
+SO00994,O0099,Checkpoint 4,2025-05-26,None
+SO00995,O0099,Checkpoint 5,2025-05-26,Sorting Delay
+SO01001,O0100,Checkpoint 1,2025-05-27,None
+SO01002,O0100,Checkpoint 2,2025-05-27,Weather
+SO01003,O0100,Checkpoint 3,2025-05-27,Sorting Delay
+SO01004,O0100,Checkpoint 4,2025-05-28,Traffic
+SO01005,O0100,Checkpoint 5,2025-05-28,Traffic
+SO01011,O0101,Checkpoint 1,2025-07-18,None
+SO01012,O0101,Checkpoint 2,2025-07-18,Sorting Delay
+SO01013,O0101,Checkpoint 3,2025-07-19,None
+SO01014,O0101,Checkpoint 4,2025-07-19,Traffic
+SO01021,O0102,Checkpoint 1,2025-06-29,Sorting Delay
+SO01022,O0102,Checkpoint 2,2025-06-30,None
+SO01023,O0102,Checkpoint 3,2025-06-30,Sorting Delay
+SO01031,O0103,Checkpoint 1,2025-07-15,Traffic
+SO01032,O0103,Checkpoint 2,2025-07-16,Sorting Delay
+SO01033,O0103,Checkpoint 3,2025-07-16,Sorting Delay
+SO01041,O0104,Checkpoint 1,2025-06-16,None
+SO01042,O0104,Checkpoint 2,2025-06-16,Sorting Delay
+SO01043,O0104,Checkpoint 3,2025-06-16,None
+SO01051,O0105,Checkpoint 1,2025-06-12,Sorting Delay
+SO01052,O0105,Checkpoint 2,2025-06-12,Sorting Delay
+SO01053,O0105,Checkpoint 3,2025-06-12,Sorting Delay
+SO01054,O0105,Checkpoint 4,2025-06-13,Weather
+SO01055,O0105,Checkpoint 5,2025-06-13,Traffic
+SO01061,O0106,Checkpoint 1,2025-07-14,Weather
+SO01062,O0106,Checkpoint 2,2025-07-15,Sorting Delay
+SO01071,O0107,Checkpoint 1,2025-07-01,None
+SO01072,O0107,Checkpoint 2,2025-07-01,Traffic
+SO01073,O0107,Checkpoint 3,2025-07-01,Sorting Delay
+SO01081,O0108,Checkpoint 1,2025-07-15,None
+SO01082,O0108,Checkpoint 2,2025-07-15,Weather
+SO01083,O0108,Checkpoint 3,2025-07-15,Sorting Delay
+SO01091,O0109,Checkpoint 1,2025-06-25,None
+SO01092,O0109,Checkpoint 2,2025-06-25,Traffic
+SO01093,O0109,Checkpoint 3,2025-06-26,Sorting Delay
+SO01094,O0109,Checkpoint 4,2025-06-26,None
+SO01095,O0109,Checkpoint 5,2025-06-26,None
+SO01101,O0110,Checkpoint 1,2025-07-05,Weather
+SO01102,O0110,Checkpoint 2,2025-07-06,Sorting Delay
+SO01103,O0110,Checkpoint 3,2025-07-06,Sorting Delay
+SO01104,O0110,Checkpoint 4,2025-07-06,None
+SO01111,O0111,Checkpoint 1,2025-06-10,Sorting Delay
+SO01112,O0111,Checkpoint 2,2025-06-11,None
+SO01113,O0111,Checkpoint 3,2025-06-11,Weather
+SO01121,O0112,Checkpoint 1,2025-05-28,Traffic
+SO01122,O0112,Checkpoint 2,2025-05-28,Weather
+SO01123,O0112,Checkpoint 3,2025-05-29,Weather
+SO01131,O0113,Checkpoint 1,2025-06-07,None
+SO01132,O0113,Checkpoint 2,2025-06-08,None
+SO01141,O0114,Checkpoint 1,2025-07-10,Weather
+SO01142,O0114,Checkpoint 2,2025-07-11,None
+SO01151,O0115,Checkpoint 1,2025-06-22,Traffic
+SO01152,O0115,Checkpoint 2,2025-06-22,Traffic
+SO01153,O0115,Checkpoint 3,2025-06-23,Sorting Delay
+SO01154,O0115,Checkpoint 4,2025-06-23,Sorting Delay
+SO01155,O0115,Checkpoint 5,2025-06-23,Traffic
+SO01161,O0116,Checkpoint 1,2025-07-13,Weather
+SO01162,O0116,Checkpoint 2,2025-07-14,Sorting Delay
+SO01171,O0117,Checkpoint 1,2025-07-11,Sorting Delay
+SO01172,O0117,Checkpoint 2,2025-07-11,Sorting Delay
+SO01173,O0117,Checkpoint 3,2025-07-12,Traffic
+SO01181,O0118,Checkpoint 1,2025-06-22,Weather
+SO01182,O0118,Checkpoint 2,2025-06-23,Weather
+SO01191,O0119,Checkpoint 1,2025-07-04,Traffic
+SO01192,O0119,Checkpoint 2,2025-07-04,None
+SO01193,O0119,Checkpoint 3,2025-07-04,Traffic
+SO01194,O0119,Checkpoint 4,2025-07-05,Sorting Delay
+SO01195,O0119,Checkpoint 5,2025-07-05,Traffic
+SO01201,O0120,Checkpoint 1,2025-07-19,Traffic
+SO01202,O0120,Checkpoint 2,2025-07-19,Sorting Delay
+SO01203,O0120,Checkpoint 3,2025-07-20,Weather
+SO01211,O0121,Checkpoint 1,2025-05-23,Sorting Delay
+SO01212,O0121,Checkpoint 2,2025-05-24,Weather
+SO01213,O0121,Checkpoint 3,2025-05-24,Weather
+SO01221,O0122,Checkpoint 1,2025-06-07,None
+SO01222,O0122,Checkpoint 2,2025-06-08,Weather
+SO01231,O0123,Checkpoint 1,2025-07-02,None
+SO01232,O0123,Checkpoint 2,2025-07-03,Weather
+SO01233,O0123,Checkpoint 3,2025-07-03,Weather
+SO01241,O0124,Checkpoint 1,2025-05-26,Sorting Delay
+SO01242,O0124,Checkpoint 2,2025-05-27,Weather
+SO01243,O0124,Checkpoint 3,2025-05-27,Traffic
+SO01244,O0124,Checkpoint 4,2025-05-27,None
+SO01251,O0125,Checkpoint 1,2025-05-29,Traffic
+SO01252,O0125,Checkpoint 2,2025-05-29,Weather
+SO01253,O0125,Checkpoint 3,2025-05-30,Sorting Delay
+SO01254,O0125,Checkpoint 4,2025-05-30,Weather
+SO01261,O0126,Checkpoint 1,2025-06-30,Sorting Delay
+SO01262,O0126,Checkpoint 2,2025-07-01,Traffic
+SO01271,O0127,Checkpoint 1,2025-07-13,Traffic
+SO01272,O0127,Checkpoint 2,2025-07-13,Traffic
+SO01273,O0127,Checkpoint 3,2025-07-14,Sorting Delay
+SO01281,O0128,Checkpoint 1,2025-06-16,Traffic
+SO01282,O0128,Checkpoint 2,2025-06-16,None
+SO01283,O0128,Checkpoint 3,2025-06-17,Weather
+SO01291,O0129,Checkpoint 1,2025-07-04,Weather
+SO01292,O0129,Checkpoint 2,2025-07-05,Weather
+SO01293,O0129,Checkpoint 3,2025-07-05,None
+SO01301,O0130,Checkpoint 1,2025-05-24,None
+SO01302,O0130,Checkpoint 2,2025-05-24,Sorting Delay
+SO01311,O0131,Checkpoint 1,2025-07-07,Traffic
+SO01312,O0131,Checkpoint 2,2025-07-08,Traffic
+SO01313,O0131,Checkpoint 3,2025-07-08,Weather
+SO01314,O0131,Checkpoint 4,2025-07-08,None
+SO01321,O0132,Checkpoint 1,2025-07-16,Traffic
+SO01322,O0132,Checkpoint 2,2025-07-16,Traffic
+SO01323,O0132,Checkpoint 3,2025-07-17,Sorting Delay
+SO01324,O0132,Checkpoint 4,2025-07-17,Weather
+SO01331,O0133,Checkpoint 1,2025-06-08,Traffic
+SO01332,O0133,Checkpoint 2,2025-06-08,None
+SO01341,O0134,Checkpoint 1,2025-06-15,Traffic
+SO01342,O0134,Checkpoint 2,2025-06-15,Weather
+SO01343,O0134,Checkpoint 3,2025-06-15,Traffic
+SO01351,O0135,Checkpoint 1,2025-06-26,Weather
+SO01352,O0135,Checkpoint 2,2025-06-26,Weather
+SO01353,O0135,Checkpoint 3,2025-06-26,Weather
+SO01354,O0135,Checkpoint 4,2025-06-26,None
+SO01355,O0135,Checkpoint 5,2025-06-27,Sorting Delay
+SO01361,O0136,Checkpoint 1,2025-07-12,Traffic
+SO01362,O0136,Checkpoint 2,2025-07-12,Weather
+SO01363,O0136,Checkpoint 3,2025-07-13,Sorting Delay
+SO01364,O0136,Checkpoint 4,2025-07-13,Sorting Delay
+SO01371,O0137,Checkpoint 1,2025-07-15,Traffic
+SO01372,O0137,Checkpoint 2,2025-07-16,Traffic
+SO01373,O0137,Checkpoint 3,2025-07-16,Weather
+SO01381,O0138,Checkpoint 1,2025-06-16,Traffic
+SO01382,O0138,Checkpoint 2,2025-06-17,Sorting Delay
+SO01391,O0139,Checkpoint 1,2025-06-15,None
+SO01392,O0139,Checkpoint 2,2025-06-16,None
+SO01401,O0140,Checkpoint 1,2025-07-18,Weather
+SO01402,O0140,Checkpoint 2,2025-07-19,Sorting Delay
+SO01411,O0141,Checkpoint 1,2025-06-04,Traffic
+SO01412,O0141,Checkpoint 2,2025-06-05,Weather
+SO01413,O0141,Checkpoint 3,2025-06-05,Traffic
+SO01421,O0142,Checkpoint 1,2025-06-24,Weather
+SO01422,O0142,Checkpoint 2,2025-06-24,Weather
+SO01423,O0142,Checkpoint 3,2025-06-24,Sorting Delay
+SO01424,O0142,Checkpoint 4,2025-06-25,Weather
+SO01431,O0143,Checkpoint 1,2025-06-29,Sorting Delay
+SO01432,O0143,Checkpoint 2,2025-06-30,Weather
+SO01433,O0143,Checkpoint 3,2025-06-30,Sorting Delay
+SO01434,O0143,Checkpoint 4,2025-06-30,Sorting Delay
+SO01441,O0144,Checkpoint 1,2025-07-05,Sorting Delay
+SO01442,O0144,Checkpoint 2,2025-07-05,Weather
+SO01443,O0144,Checkpoint 3,2025-07-05,Weather
+SO01444,O0144,Checkpoint 4,2025-07-06,Weather
+SO01451,O0145,Checkpoint 1,2025-07-17,Traffic
+SO01452,O0145,Checkpoint 2,2025-07-17,Traffic
+SO01453,O0145,Checkpoint 3,2025-07-18,Weather
+SO01461,O0146,Checkpoint 1,2025-06-01,Traffic
+SO01462,O0146,Checkpoint 2,2025-06-01,Sorting Delay
+SO01463,O0146,Checkpoint 3,2025-06-02,None
+SO01464,O0146,Checkpoint 4,2025-06-02,Sorting Delay
+SO01471,O0147,Checkpoint 1,2025-07-07,Traffic
+SO01472,O0147,Checkpoint 2,2025-07-08,Sorting Delay
+SO01473,O0147,Checkpoint 3,2025-07-08,None
+SO01474,O0147,Checkpoint 4,2025-07-08,Traffic
+SO01475,O0147,Checkpoint 5,2025-07-08,Traffic
+SO01481,O0148,Checkpoint 1,2025-05-28,Weather
+SO01482,O0148,Checkpoint 2,2025-05-29,None
+SO01483,O0148,Checkpoint 3,2025-05-29,Weather
+SO01491,O0149,Checkpoint 1,2025-07-17,None
+SO01492,O0149,Checkpoint 2,2025-07-17,Traffic
+SO01493,O0149,Checkpoint 3,2025-07-18,None
+SO01494,O0149,Checkpoint 4,2025-07-18,Sorting Delay
+SO01501,O0150,Checkpoint 1,2025-06-21,Sorting Delay
+SO01502,O0150,Checkpoint 2,2025-06-22,None
+SO01503,O0150,Checkpoint 3,2025-06-22,None
+SO01504,O0150,Checkpoint 4,2025-06-22,Traffic
+SO01505,O0150,Checkpoint 5,2025-06-22,None
+SO01511,O0151,Checkpoint 1,2025-07-09,None
+SO01512,O0151,Checkpoint 2,2025-07-10,None
+SO01513,O0151,Checkpoint 3,2025-07-10,Sorting Delay
+SO01514,O0151,Checkpoint 4,2025-07-10,None
+SO01515,O0151,Checkpoint 5,2025-07-10,Weather
+SO01521,O0152,Checkpoint 1,2025-07-01,Weather
+SO01522,O0152,Checkpoint 2,2025-07-02,Sorting Delay
+SO01523,O0152,Checkpoint 3,2025-07-02,Sorting Delay
+SO01531,O0153,Checkpoint 1,2025-06-17,None
+SO01532,O0153,Checkpoint 2,2025-06-17,Sorting Delay
+SO01541,O0154,Checkpoint 1,2025-05-22,None
+SO01542,O0154,Checkpoint 2,2025-05-23,Weather
+SO01551,O0155,Checkpoint 1,2025-07-09,Traffic
+SO01552,O0155,Checkpoint 2,2025-07-09,Sorting Delay
+SO01553,O0155,Checkpoint 3,2025-07-10,Weather
+SO01554,O0155,Checkpoint 4,2025-07-10,None
+SO01555,O0155,Checkpoint 5,2025-07-10,Weather
+SO01561,O0156,Checkpoint 1,2025-07-17,Traffic
+SO01562,O0156,Checkpoint 2,2025-07-17,Weather
+SO01563,O0156,Checkpoint 3,2025-07-18,Sorting Delay
+SO01564,O0156,Checkpoint 4,2025-07-18,Weather
+SO01571,O0157,Checkpoint 1,2025-05-24,Weather
+SO01572,O0157,Checkpoint 2,2025-05-24,None
+SO01573,O0157,Checkpoint 3,2025-05-24,Traffic
+SO01574,O0157,Checkpoint 4,2025-05-24,Traffic
+SO01575,O0157,Checkpoint 5,2025-05-24,None
+SO01581,O0158,Checkpoint 1,2025-06-10,Weather
+SO01582,O0158,Checkpoint 2,2025-06-10,Sorting Delay
+SO01583,O0158,Checkpoint 3,2025-06-10,Sorting Delay
+SO01584,O0158,Checkpoint 4,2025-06-10,None
+SO01585,O0158,Checkpoint 5,2025-06-11,Sorting Delay
+SO01591,O0159,Checkpoint 1,2025-06-06,Weather
+SO01592,O0159,Checkpoint 2,2025-06-06,None
+SO01593,O0159,Checkpoint 3,2025-06-07,None
+SO01601,O0160,Checkpoint 1,2025-06-27,Weather
+SO01602,O0160,Checkpoint 2,2025-06-28,Traffic
+SO01603,O0160,Checkpoint 3,2025-06-28,Traffic
+SO01604,O0160,Checkpoint 4,2025-06-28,None
+SO01605,O0160,Checkpoint 5,2025-06-28,Sorting Delay
+SO01611,O0161,Checkpoint 1,2025-06-04,Sorting Delay
+SO01612,O0161,Checkpoint 2,2025-06-04,None
+SO01613,O0161,Checkpoint 3,2025-06-05,None
+SO01621,O0162,Checkpoint 1,2025-07-11,Weather
+SO01622,O0162,Checkpoint 2,2025-07-11,None
+SO01623,O0162,Checkpoint 3,2025-07-11,Weather
+SO01624,O0162,Checkpoint 4,2025-07-12,None
+SO01631,O0163,Checkpoint 1,2025-07-12,Sorting Delay
+SO01632,O0163,Checkpoint 2,2025-07-12,Sorting Delay
+SO01641,O0164,Checkpoint 1,2025-07-03,Traffic
+SO01642,O0164,Checkpoint 2,2025-07-04,None
+SO01643,O0164,Checkpoint 3,2025-07-04,Sorting Delay
+SO01651,O0165,Checkpoint 1,2025-05-31,Weather
+SO01652,O0165,Checkpoint 2,2025-05-31,Traffic
+SO01653,O0165,Checkpoint 3,2025-06-01,None
+SO01654,O0165,Checkpoint 4,2025-06-01,Sorting Delay
+SO01655,O0165,Checkpoint 5,2025-06-01,None
+SO01661,O0166,Checkpoint 1,2025-07-07,Traffic
+SO01662,O0166,Checkpoint 2,2025-07-07,Traffic
+SO01663,O0166,Checkpoint 3,2025-07-08,Sorting Delay
+SO01664,O0166,Checkpoint 4,2025-07-08,Traffic
+SO01671,O0167,Checkpoint 1,2025-06-02,None
+SO01672,O0167,Checkpoint 2,2025-06-02,None
+SO01673,O0167,Checkpoint 3,2025-06-02,Traffic
+SO01681,O0168,Checkpoint 1,2025-06-18,Weather
+SO01682,O0168,Checkpoint 2,2025-06-19,Sorting Delay
+SO01683,O0168,Checkpoint 3,2025-06-19,Traffic
+SO01691,O0169,Checkpoint 1,2025-06-11,None
+SO01692,O0169,Checkpoint 2,2025-06-11,Traffic
+SO01701,O0170,Checkpoint 1,2025-06-10,Sorting Delay
+SO01702,O0170,Checkpoint 2,2025-06-10,Sorting Delay
+SO01703,O0170,Checkpoint 3,2025-06-11,Weather
+SO01704,O0170,Checkpoint 4,2025-06-11,Weather
+SO01705,O0170,Checkpoint 5,2025-06-11,Weather
+SO01711,O0171,Checkpoint 1,2025-06-07,Traffic
+SO01712,O0171,Checkpoint 2,2025-06-07,Weather
+SO01721,O0172,Checkpoint 1,2025-05-27,None
+SO01722,O0172,Checkpoint 2,2025-05-28,None
+SO01723,O0172,Checkpoint 3,2025-05-28,Sorting Delay
+SO01731,O0173,Checkpoint 1,2025-06-09,Sorting Delay
+SO01732,O0173,Checkpoint 2,2025-06-09,Sorting Delay
+SO01733,O0173,Checkpoint 3,2025-06-10,Weather
+SO01734,O0173,Checkpoint 4,2025-06-10,None
+SO01735,O0173,Checkpoint 5,2025-06-10,Sorting Delay
+SO01741,O0174,Checkpoint 1,2025-07-14,Sorting Delay
+SO01742,O0174,Checkpoint 2,2025-07-15,None
+SO01743,O0174,Checkpoint 3,2025-07-15,Weather
+SO01751,O0175,Checkpoint 1,2025-06-08,None
+SO01752,O0175,Checkpoint 2,2025-06-08,Weather
+SO01753,O0175,Checkpoint 3,2025-06-09,Weather
+SO01761,O0176,Checkpoint 1,2025-06-17,Sorting Delay
+SO01762,O0176,Checkpoint 2,2025-06-18,None
+SO01763,O0176,Checkpoint 3,2025-06-18,Weather
+SO01764,O0176,Checkpoint 4,2025-06-18,Sorting Delay
+SO01771,O0177,Checkpoint 1,2025-05-24,None
+SO01772,O0177,Checkpoint 2,2025-05-24,None
+SO01781,O0178,Checkpoint 1,2025-05-23,None
+SO01782,O0178,Checkpoint 2,2025-05-23,Weather
+SO01783,O0178,Checkpoint 3,2025-05-24,Weather
+SO01784,O0178,Checkpoint 4,2025-05-24,Weather
+SO01785,O0178,Checkpoint 5,2025-05-24,Sorting Delay
+SO01791,O0179,Checkpoint 1,2025-05-31,Traffic
+SO01792,O0179,Checkpoint 2,2025-06-01,Weather
+SO01801,O0180,Checkpoint 1,2025-05-28,Traffic
+SO01802,O0180,Checkpoint 2,2025-05-29,Sorting Delay
+SO01811,O0181,Checkpoint 1,2025-05-30,Weather
+SO01812,O0181,Checkpoint 2,2025-05-31,None
+SO01813,O0181,Checkpoint 3,2025-05-31,Traffic
+SO01821,O0182,Checkpoint 1,2025-06-23,Weather
+SO01822,O0182,Checkpoint 2,2025-06-23,Weather
+SO01823,O0182,Checkpoint 3,2025-06-23,None
+SO01831,O0183,Checkpoint 1,2025-07-01,Weather
+SO01832,O0183,Checkpoint 2,2025-07-01,Traffic
+SO01833,O0183,Checkpoint 3,2025-07-02,Traffic
+SO01834,O0183,Checkpoint 4,2025-07-02,None
+SO01835,O0183,Checkpoint 5,2025-07-02,Sorting Delay
+SO01841,O0184,Checkpoint 1,2025-07-08,Traffic
+SO01842,O0184,Checkpoint 2,2025-07-08,Sorting Delay
+SO01843,O0184,Checkpoint 3,2025-07-09,Traffic
+SO01844,O0184,Checkpoint 4,2025-07-10,Weather
+SO01851,O0185,Checkpoint 1,2025-05-27,Weather
+SO01852,O0185,Checkpoint 2,2025-05-28,Sorting Delay
+SO01861,O0186,Checkpoint 1,2025-07-20,Weather
+SO01862,O0186,Checkpoint 2,2025-07-20,Sorting Delay
+SO01863,O0186,Checkpoint 3,2025-07-21,Weather
+SO01864,O0186,Checkpoint 4,2025-07-21,Sorting Delay
+SO01871,O0187,Checkpoint 1,2025-06-24,Traffic
+SO01872,O0187,Checkpoint 2,2025-06-24,Traffic
+SO01881,O0188,Checkpoint 1,2025-05-24,Weather
+SO01882,O0188,Checkpoint 2,2025-05-24,None
+SO01891,O0189,Checkpoint 1,2025-06-19,None
+SO01892,O0189,Checkpoint 2,2025-06-20,Weather
+SO01893,O0189,Checkpoint 3,2025-06-20,Weather
+SO01901,O0190,Checkpoint 1,2025-07-02,Weather
+SO01902,O0190,Checkpoint 2,2025-07-02,Sorting Delay
+SO01911,O0191,Checkpoint 1,2025-07-02,Weather
+SO01912,O0191,Checkpoint 2,2025-07-03,None
+SO01913,O0191,Checkpoint 3,2025-07-03,Sorting Delay
+SO01921,O0192,Checkpoint 1,2025-06-09,Sorting Delay
+SO01922,O0192,Checkpoint 2,2025-06-09,Traffic
+SO01923,O0192,Checkpoint 3,2025-06-09,Sorting Delay
+SO01931,O0193,Checkpoint 1,2025-06-13,None
+SO01932,O0193,Checkpoint 2,2025-06-13,None
+SO01933,O0193,Checkpoint 3,2025-06-13,Traffic
+SO01941,O0194,Checkpoint 1,2025-07-09,None
+SO01942,O0194,Checkpoint 2,2025-07-09,None
+SO01943,O0194,Checkpoint 3,2025-07-10,Sorting Delay
+SO01944,O0194,Checkpoint 4,2025-07-10,Sorting Delay
+SO01945,O0194,Checkpoint 5,2025-07-10,None
+SO01951,O0195,Checkpoint 1,2025-06-10,Weather
+SO01952,O0195,Checkpoint 2,2025-06-10,Weather
+SO01953,O0195,Checkpoint 3,2025-06-10,Sorting Delay
+SO01954,O0195,Checkpoint 4,2025-06-10,None
+SO01955,O0195,Checkpoint 5,2025-06-11,Weather
+SO01961,O0196,Checkpoint 1,2025-07-11,Traffic
+SO01962,O0196,Checkpoint 2,2025-07-11,Weather
+SO01963,O0196,Checkpoint 3,2025-07-12,Sorting Delay
+SO01964,O0196,Checkpoint 4,2025-07-12,Traffic
+SO01971,O0197,Checkpoint 1,2025-05-31,None
+SO01972,O0197,Checkpoint 2,2025-05-31,None
+SO01973,O0197,Checkpoint 3,2025-06-01,Traffic
+SO01974,O0197,Checkpoint 4,2025-06-01,None
+SO01975,O0197,Checkpoint 5,2025-06-01,Weather
+SO01981,O0198,Checkpoint 1,2025-06-19,Sorting Delay
+SO01982,O0198,Checkpoint 2,2025-06-19,Weather
+SO01983,O0198,Checkpoint 3,2025-06-19,Traffic
+SO01984,O0198,Checkpoint 4,2025-06-19,None
+SO01991,O0199,Checkpoint 1,2025-05-30,Weather
+SO01992,O0199,Checkpoint 2,2025-05-30,Sorting Delay
+SO01993,O0199,Checkpoint 3,2025-05-30,None
+SO01994,O0199,Checkpoint 4,2025-05-30,Weather
+SO02001,O0200,Checkpoint 1,2025-06-05,Traffic
+SO02002,O0200,Checkpoint 2,2025-06-06,Weather
+SO02003,O0200,Checkpoint 3,2025-06-06,None
+SO02011,O0201,Checkpoint 1,2025-06-09,None
+SO02012,O0201,Checkpoint 2,2025-06-09,None
+SO02013,O0201,Checkpoint 3,2025-06-09,None
+SO02014,O0201,Checkpoint 4,2025-06-09,Weather
+SO02021,O0202,Checkpoint 1,2025-07-15,Traffic
+SO02022,O0202,Checkpoint 2,2025-07-15,Sorting Delay
+SO02023,O0202,Checkpoint 3,2025-07-16,None
+SO02024,O0202,Checkpoint 4,2025-07-16,None
+SO02031,O0203,Checkpoint 1,2025-07-11,Traffic
+SO02032,O0203,Checkpoint 2,2025-07-11,Traffic
+SO02033,O0203,Checkpoint 3,2025-07-12,Traffic
+SO02034,O0203,Checkpoint 4,2025-07-12,Traffic
+SO02035,O0203,Checkpoint 5,2025-07-12,Traffic
+SO02041,O0204,Checkpoint 1,2025-07-11,None
+SO02042,O0204,Checkpoint 2,2025-07-11,None
+SO02043,O0204,Checkpoint 3,2025-07-12,None
+SO02044,O0204,Checkpoint 4,2025-07-12,None
+SO02051,O0205,Checkpoint 1,2025-07-12,Sorting Delay
+SO02052,O0205,Checkpoint 2,2025-07-13,None
+SO02053,O0205,Checkpoint 3,2025-07-13,Traffic
+SO02054,O0205,Checkpoint 4,2025-07-13,Weather
+SO02061,O0206,Checkpoint 1,2025-07-20,Traffic
+SO02062,O0206,Checkpoint 2,2025-07-20,Traffic
+SO02063,O0206,Checkpoint 3,2025-07-20,Weather
+SO02064,O0206,Checkpoint 4,2025-07-21,Weather
+SO02071,O0207,Checkpoint 1,2025-06-21,Weather
+SO02072,O0207,Checkpoint 2,2025-06-22,Sorting Delay
+SO02081,O0208,Checkpoint 1,2025-05-30,Traffic
+SO02082,O0208,Checkpoint 2,2025-05-31,Sorting Delay
+SO02083,O0208,Checkpoint 3,2025-05-31,Weather
+SO02091,O0209,Checkpoint 1,2025-07-11,Sorting Delay
+SO02092,O0209,Checkpoint 2,2025-07-11,Sorting Delay
+SO02101,O0210,Checkpoint 1,2025-07-07,Weather
+SO02102,O0210,Checkpoint 2,2025-07-07,Weather
+SO02103,O0210,Checkpoint 3,2025-07-08,Sorting Delay
+SO02104,O0210,Checkpoint 4,2025-07-09,Sorting Delay
+SO02111,O0211,Checkpoint 1,2025-06-22,Traffic
+SO02112,O0211,Checkpoint 2,2025-06-22,Weather
+SO02113,O0211,Checkpoint 3,2025-06-22,None
+SO02114,O0211,Checkpoint 4,2025-06-22,Weather
+SO02121,O0212,Checkpoint 1,2025-06-09,Weather
+SO02122,O0212,Checkpoint 2,2025-06-09,Weather
+SO02123,O0212,Checkpoint 3,2025-06-09,Traffic
+SO02124,O0212,Checkpoint 4,2025-06-10,Weather
+SO02131,O0213,Checkpoint 1,2025-07-19,Sorting Delay
+SO02132,O0213,Checkpoint 2,2025-07-20,Traffic
+SO02141,O0214,Checkpoint 1,2025-07-03,None
+SO02142,O0214,Checkpoint 2,2025-07-03,Traffic
+SO02143,O0214,Checkpoint 3,2025-07-03,Weather
+SO02144,O0214,Checkpoint 4,2025-07-04,None
+SO02151,O0215,Checkpoint 1,2025-07-16,Weather
+SO02152,O0215,Checkpoint 2,2025-07-16,Traffic
+SO02153,O0215,Checkpoint 3,2025-07-16,Traffic
+SO02154,O0215,Checkpoint 4,2025-07-17,None
+SO02155,O0215,Checkpoint 5,2025-07-17,None
+SO02161,O0216,Checkpoint 1,2025-06-10,Traffic
+SO02162,O0216,Checkpoint 2,2025-06-10,Traffic
+SO02163,O0216,Checkpoint 3,2025-06-11,Sorting Delay
+SO02171,O0217,Checkpoint 1,2025-06-09,None
+SO02172,O0217,Checkpoint 2,2025-06-10,Traffic
+SO02181,O0218,Checkpoint 1,2025-07-13,Traffic
+SO02182,O0218,Checkpoint 2,2025-07-13,Weather
+SO02191,O0219,Checkpoint 1,2025-07-18,None
+SO02192,O0219,Checkpoint 2,2025-07-18,Sorting Delay
+SO02193,O0219,Checkpoint 3,2025-07-18,Sorting Delay
+SO02194,O0219,Checkpoint 4,2025-07-18,Sorting Delay
+SO02201,O0220,Checkpoint 1,2025-06-21,Traffic
+SO02202,O0220,Checkpoint 2,2025-06-22,Weather
+SO02203,O0220,Checkpoint 3,2025-06-22,Traffic
+SO02211,O0221,Checkpoint 1,2025-05-28,Traffic
+SO02212,O0221,Checkpoint 2,2025-05-28,Sorting Delay
+SO02213,O0221,Checkpoint 3,2025-05-28,Sorting Delay
+SO02214,O0221,Checkpoint 4,2025-05-29,None
+SO02215,O0221,Checkpoint 5,2025-05-29,Traffic
+SO02221,O0222,Checkpoint 1,2025-06-25,None
+SO02222,O0222,Checkpoint 2,2025-06-25,Weather
+SO02223,O0222,Checkpoint 3,2025-06-26,Weather
+SO02231,O0223,Checkpoint 1,2025-07-03,None
+SO02232,O0223,Checkpoint 2,2025-07-04,None
+SO02241,O0224,Checkpoint 1,2025-07-16,Traffic
+SO02242,O0224,Checkpoint 2,2025-07-17,Weather
+SO02243,O0224,Checkpoint 3,2025-07-17,Weather
+SO02244,O0224,Checkpoint 4,2025-07-17,Sorting Delay
+SO02245,O0224,Checkpoint 5,2025-07-17,Weather
+SO02251,O0225,Checkpoint 1,2025-06-04,Sorting Delay
+SO02252,O0225,Checkpoint 2,2025-06-05,None
+SO02253,O0225,Checkpoint 3,2025-06-05,Traffic
+SO02261,O0226,Checkpoint 1,2025-06-06,None
+SO02262,O0226,Checkpoint 2,2025-06-06,None
+SO02263,O0226,Checkpoint 3,2025-06-07,Sorting Delay
+SO02264,O0226,Checkpoint 4,2025-06-07,None
+SO02271,O0227,Checkpoint 1,2025-05-27,Traffic
+SO02272,O0227,Checkpoint 2,2025-05-27,None
+SO02273,O0227,Checkpoint 3,2025-05-28,Weather
+SO02274,O0227,Checkpoint 4,2025-05-28,Weather
+SO02281,O0228,Checkpoint 1,2025-06-09,Weather
+SO02282,O0228,Checkpoint 2,2025-06-10,None
+SO02291,O0229,Checkpoint 1,2025-06-14,Traffic
+SO02292,O0229,Checkpoint 2,2025-06-15,Traffic
+SO02293,O0229,Checkpoint 3,2025-06-15,Traffic
+SO02301,O0230,Checkpoint 1,2025-06-17,Sorting Delay
+SO02302,O0230,Checkpoint 2,2025-06-18,Weather
+SO02303,O0230,Checkpoint 3,2025-06-18,Sorting Delay
+SO02304,O0230,Checkpoint 4,2025-06-18,Weather
+SO02311,O0231,Checkpoint 1,2025-07-06,None
+SO02312,O0231,Checkpoint 2,2025-07-06,None
+SO02321,O0232,Checkpoint 1,2025-06-08,Sorting Delay
+SO02322,O0232,Checkpoint 2,2025-06-08,Weather
+SO02323,O0232,Checkpoint 3,2025-06-09,Weather
+SO02331,O0233,Checkpoint 1,2025-06-23,Traffic
+SO02332,O0233,Checkpoint 2,2025-06-23,None
+SO02333,O0233,Checkpoint 3,2025-06-23,Sorting Delay
+SO02341,O0234,Checkpoint 1,2025-06-10,None
+SO02342,O0234,Checkpoint 2,2025-06-11,Sorting Delay
+SO02343,O0234,Checkpoint 3,2025-06-12,Sorting Delay
+SO02351,O0235,Checkpoint 1,2025-06-30,Sorting Delay
+SO02352,O0235,Checkpoint 2,2025-07-01,Traffic
+SO02353,O0235,Checkpoint 3,2025-07-01,Sorting Delay
+SO02361,O0236,Checkpoint 1,2025-05-22,Sorting Delay
+SO02362,O0236,Checkpoint 2,2025-05-23,Traffic
+SO02371,O0237,Checkpoint 1,2025-06-09,None
+SO02372,O0237,Checkpoint 2,2025-06-09,None
+SO02373,O0237,Checkpoint 3,2025-06-09,Weather
+SO02374,O0237,Checkpoint 4,2025-06-10,None
+SO02375,O0237,Checkpoint 5,2025-06-10,None
+SO02381,O0238,Checkpoint 1,2025-06-30,Traffic
+SO02382,O0238,Checkpoint 2,2025-07-01,Traffic
+SO02383,O0238,Checkpoint 3,2025-07-01,Weather
+SO02391,O0239,Checkpoint 1,2025-06-05,Traffic
+SO02392,O0239,Checkpoint 2,2025-06-05,Traffic
+SO02401,O0240,Checkpoint 1,2025-05-25,Weather
+SO02402,O0240,Checkpoint 2,2025-05-26,Weather
+SO02403,O0240,Checkpoint 3,2025-05-26,Traffic
+SO02411,O0241,Checkpoint 1,2025-07-14,Traffic
+SO02412,O0241,Checkpoint 2,2025-07-14,Sorting Delay
+SO02413,O0241,Checkpoint 3,2025-07-14,Traffic
+SO02414,O0241,Checkpoint 4,2025-07-14,Traffic
+SO02421,O0242,Checkpoint 1,2025-07-09,Weather
+SO02422,O0242,Checkpoint 2,2025-07-10,Sorting Delay
+SO02423,O0242,Checkpoint 3,2025-07-10,Traffic
+SO02424,O0242,Checkpoint 4,2025-07-10,Sorting Delay
+SO02431,O0243,Checkpoint 1,2025-06-07,Traffic
+SO02432,O0243,Checkpoint 2,2025-06-08,None
+SO02433,O0243,Checkpoint 3,2025-06-08,Weather
+SO02434,O0243,Checkpoint 4,2025-06-08,Weather
+SO02441,O0244,Checkpoint 1,2025-05-29,Traffic
+SO02442,O0244,Checkpoint 2,2025-05-29,Weather
+SO02443,O0244,Checkpoint 3,2025-05-30,Sorting Delay
+SO02451,O0245,Checkpoint 1,2025-06-19,Weather
+SO02452,O0245,Checkpoint 2,2025-06-19,Weather
+SO02453,O0245,Checkpoint 3,2025-06-19,None
+SO02454,O0245,Checkpoint 4,2025-06-19,None
+SO02455,O0245,Checkpoint 5,2025-06-20,None
+SO02461,O0246,Checkpoint 1,2025-05-31,Sorting Delay
+SO02462,O0246,Checkpoint 2,2025-06-01,None
+SO02471,O0247,Checkpoint 1,2025-05-31,Sorting Delay
+SO02472,O0247,Checkpoint 2,2025-06-01,Sorting Delay
+SO02473,O0247,Checkpoint 3,2025-06-01,Weather
+SO02474,O0247,Checkpoint 4,2025-06-01,Weather
+SO02475,O0247,Checkpoint 5,2025-06-01,None
+SO02481,O0248,Checkpoint 1,2025-05-29,None
+SO02482,O0248,Checkpoint 2,2025-05-29,Weather
+SO02483,O0248,Checkpoint 3,2025-05-30,Sorting Delay
+SO02491,O0249,Checkpoint 1,2025-07-16,Weather
+SO02492,O0249,Checkpoint 2,2025-07-16,Sorting Delay
+SO02493,O0249,Checkpoint 3,2025-07-17,Weather
+SO02501,O0250,Checkpoint 1,2025-07-06,Weather
+SO02502,O0250,Checkpoint 2,2025-07-06,Weather
+SO02511,O0251,Checkpoint 1,2025-06-14,None
+SO02512,O0251,Checkpoint 2,2025-06-14,Weather
+SO02513,O0251,Checkpoint 3,2025-06-14,Traffic
+SO02514,O0251,Checkpoint 4,2025-06-15,Traffic
+SO02521,O0252,Checkpoint 1,2025-06-08,Sorting Delay
+SO02522,O0252,Checkpoint 2,2025-06-08,Traffic
+SO02523,O0252,Checkpoint 3,2025-06-09,Traffic
+SO02531,O0253,Checkpoint 1,2025-06-24,Sorting Delay
+SO02532,O0253,Checkpoint 2,2025-06-24,Traffic
+SO02533,O0253,Checkpoint 3,2025-06-24,Weather
+SO02534,O0253,Checkpoint 4,2025-06-24,Traffic
+SO02535,O0253,Checkpoint 5,2025-06-25,None
+SO02541,O0254,Checkpoint 1,2025-07-09,Traffic
+SO02542,O0254,Checkpoint 2,2025-07-09,None
+SO02543,O0254,Checkpoint 3,2025-07-10,Sorting Delay
+SO02544,O0254,Checkpoint 4,2025-07-10,Sorting Delay
+SO02551,O0255,Checkpoint 1,2025-07-05,Traffic
+SO02552,O0255,Checkpoint 2,2025-07-06,Sorting Delay
+SO02561,O0256,Checkpoint 1,2025-07-06,Sorting Delay
+SO02562,O0256,Checkpoint 2,2025-07-06,None
+SO02563,O0256,Checkpoint 3,2025-07-07,Traffic
+SO02564,O0256,Checkpoint 4,2025-07-07,Sorting Delay
+SO02565,O0256,Checkpoint 5,2025-07-07,None
+SO02571,O0257,Checkpoint 1,2025-06-15,Weather
+SO02572,O0257,Checkpoint 2,2025-06-16,Traffic
+SO02573,O0257,Checkpoint 3,2025-06-16,None
+SO02574,O0257,Checkpoint 4,2025-06-16,Traffic
+SO02581,O0258,Checkpoint 1,2025-06-28,Traffic
+SO02582,O0258,Checkpoint 2,2025-06-28,None
+SO02583,O0258,Checkpoint 3,2025-06-28,Traffic
+SO02584,O0258,Checkpoint 4,2025-06-29,Sorting Delay
+SO02591,O0259,Checkpoint 1,2025-06-22,Sorting Delay
+SO02592,O0259,Checkpoint 2,2025-06-23,Weather
+SO02601,O0260,Checkpoint 1,2025-06-09,Sorting Delay
+SO02602,O0260,Checkpoint 2,2025-06-10,None
+SO02603,O0260,Checkpoint 3,2025-06-10,Traffic
+SO02611,O0261,Checkpoint 1,2025-06-05,None
+SO02612,O0261,Checkpoint 2,2025-06-06,None
+SO02613,O0261,Checkpoint 3,2025-06-06,Sorting Delay
+SO02621,O0262,Checkpoint 1,2025-06-11,None
+SO02622,O0262,Checkpoint 2,2025-06-11,Traffic
+SO02623,O0262,Checkpoint 3,2025-06-11,Sorting Delay
+SO02624,O0262,Checkpoint 4,2025-06-12,Sorting Delay
+SO02625,O0262,Checkpoint 5,2025-06-13,Sorting Delay
+SO02631,O0263,Checkpoint 1,2025-06-01,Sorting Delay
+SO02632,O0263,Checkpoint 2,2025-06-01,Traffic
+SO02633,O0263,Checkpoint 3,2025-06-02,Weather
+SO02634,O0263,Checkpoint 4,2025-06-02,Traffic
+SO02641,O0264,Checkpoint 1,2025-07-15,Traffic
+SO02642,O0264,Checkpoint 2,2025-07-15,Sorting Delay
+SO02643,O0264,Checkpoint 3,2025-07-15,Traffic
+SO02644,O0264,Checkpoint 4,2025-07-16,None
+SO02651,O0265,Checkpoint 1,2025-06-10,None
+SO02652,O0265,Checkpoint 2,2025-06-10,None
+SO02653,O0265,Checkpoint 3,2025-06-11,None
+SO02654,O0265,Checkpoint 4,2025-06-11,None
+SO02655,O0265,Checkpoint 5,2025-06-11,Sorting Delay
+SO02661,O0266,Checkpoint 1,2025-06-25,Weather
+SO02662,O0266,Checkpoint 2,2025-06-25,Traffic
+SO02663,O0266,Checkpoint 3,2025-06-26,Weather
+SO02671,O0267,Checkpoint 1,2025-06-22,None
+SO02672,O0267,Checkpoint 2,2025-06-22,Sorting Delay
+SO02681,O0268,Checkpoint 1,2025-06-13,Weather
+SO02682,O0268,Checkpoint 2,2025-06-13,Weather
+SO02683,O0268,Checkpoint 3,2025-06-13,None
+SO02684,O0268,Checkpoint 4,2025-06-13,Sorting Delay
+SO02691,O0269,Checkpoint 1,2025-07-08,Traffic
+SO02692,O0269,Checkpoint 2,2025-07-09,Sorting Delay
+SO02693,O0269,Checkpoint 3,2025-07-09,Sorting Delay
+SO02694,O0269,Checkpoint 4,2025-07-09,Sorting Delay
+SO02695,O0269,Checkpoint 5,2025-07-09,Weather
+SO02701,O0270,Checkpoint 1,2025-07-01,Sorting Delay
+SO02702,O0270,Checkpoint 2,2025-07-01,Traffic
+SO02703,O0270,Checkpoint 3,2025-07-01,Weather
+SO02704,O0270,Checkpoint 4,2025-07-01,None
+SO02705,O0270,Checkpoint 5,2025-07-01,Sorting Delay
+SO02711,O0271,Checkpoint 1,2025-07-14,Traffic
+SO02712,O0271,Checkpoint 2,2025-07-14,Sorting Delay
+SO02713,O0271,Checkpoint 3,2025-07-14,Traffic
+SO02714,O0271,Checkpoint 4,2025-07-14,Sorting Delay
+SO02721,O0272,Checkpoint 1,2025-07-05,Weather
+SO02722,O0272,Checkpoint 2,2025-07-06,Sorting Delay
+SO02731,O0273,Checkpoint 1,2025-06-27,None
+SO02732,O0273,Checkpoint 2,2025-06-27,None
+SO02733,O0273,Checkpoint 3,2025-06-27,Sorting Delay
+SO02734,O0273,Checkpoint 4,2025-06-28,Sorting Delay
+SO02741,O0274,Checkpoint 1,2025-07-17,Sorting Delay
+SO02742,O0274,Checkpoint 2,2025-07-17,Sorting Delay
+SO02743,O0274,Checkpoint 3,2025-07-17,None
+SO02744,O0274,Checkpoint 4,2025-07-17,None
+SO02745,O0274,Checkpoint 5,2025-07-18,Sorting Delay
+SO02751,O0275,Checkpoint 1,2025-07-06,None
+SO02752,O0275,Checkpoint 2,2025-07-07,Sorting Delay
+SO02761,O0276,Checkpoint 1,2025-06-17,None
+SO02762,O0276,Checkpoint 2,2025-06-17,Traffic
+SO02763,O0276,Checkpoint 3,2025-06-18,Weather
+SO02764,O0276,Checkpoint 4,2025-06-18,Sorting Delay
+SO02765,O0276,Checkpoint 5,2025-06-18,Sorting Delay
+SO02771,O0277,Checkpoint 1,2025-07-10,Sorting Delay
+SO02772,O0277,Checkpoint 2,2025-07-10,Traffic
+SO02781,O0278,Checkpoint 1,2025-07-02,None
+SO02782,O0278,Checkpoint 2,2025-07-02,Sorting Delay
+SO02783,O0278,Checkpoint 3,2025-07-02,Weather
+SO02784,O0278,Checkpoint 4,2025-07-02,Weather
+SO02785,O0278,Checkpoint 5,2025-07-02,Sorting Delay
+SO02791,O0279,Checkpoint 1,2025-06-10,Weather
+SO02792,O0279,Checkpoint 2,2025-06-10,Traffic
+SO02793,O0279,Checkpoint 3,2025-06-11,Sorting Delay
+SO02801,O0280,Checkpoint 1,2025-07-01,Sorting Delay
+SO02802,O0280,Checkpoint 2,2025-07-02,Sorting Delay
+SO02811,O0281,Checkpoint 1,2025-07-05,Traffic
+SO02812,O0281,Checkpoint 2,2025-07-06,Traffic
+SO02813,O0281,Checkpoint 3,2025-07-06,None
+SO02814,O0281,Checkpoint 4,2025-07-06,None
+SO02821,O0282,Checkpoint 1,2025-06-18,Traffic
+SO02822,O0282,Checkpoint 2,2025-06-18,Sorting Delay
+SO02823,O0282,Checkpoint 3,2025-06-19,Sorting Delay
+SO02824,O0282,Checkpoint 4,2025-06-19,None
+SO02831,O0283,Checkpoint 1,2025-05-22,Sorting Delay
+SO02832,O0283,Checkpoint 2,2025-05-23,None
+SO02841,O0284,Checkpoint 1,2025-07-03,None
+SO02842,O0284,Checkpoint 2,2025-07-03,Weather
+SO02843,O0284,Checkpoint 3,2025-07-04,Weather
+SO02851,O0285,Checkpoint 1,2025-07-16,Weather
+SO02852,O0285,Checkpoint 2,2025-07-16,Traffic
+SO02861,O0286,Checkpoint 1,2025-06-18,Traffic
+SO02862,O0286,Checkpoint 2,2025-06-19,Traffic
+SO02863,O0286,Checkpoint 3,2025-06-19,Sorting Delay
+SO02864,O0286,Checkpoint 4,2025-06-19,Sorting Delay
+SO02871,O0287,Checkpoint 1,2025-05-24,Sorting Delay
+SO02872,O0287,Checkpoint 2,2025-05-24,Weather
+SO02873,O0287,Checkpoint 3,2025-05-24,Traffic
+SO02874,O0287,Checkpoint 4,2025-05-25,Sorting Delay
+SO02881,O0288,Checkpoint 1,2025-07-03,Traffic
+SO02882,O0288,Checkpoint 2,2025-07-03,None
+SO02883,O0288,Checkpoint 3,2025-07-04,Traffic
+SO02884,O0288,Checkpoint 4,2025-07-04,Sorting Delay
+SO02891,O0289,Checkpoint 1,2025-05-26,None
+SO02892,O0289,Checkpoint 2,2025-05-27,Sorting Delay
+SO02893,O0289,Checkpoint 3,2025-05-27,Traffic
+SO02894,O0289,Checkpoint 4,2025-05-27,Sorting Delay
+SO02901,O0290,Checkpoint 1,2025-05-29,Weather
+SO02902,O0290,Checkpoint 2,2025-05-30,Sorting Delay
+SO02903,O0290,Checkpoint 3,2025-05-30,Weather
+SO02904,O0290,Checkpoint 4,2025-05-30,Weather
+SO02905,O0290,Checkpoint 5,2025-05-30,Weather
+SO02911,O0291,Checkpoint 1,2025-06-07,Traffic
+SO02912,O0291,Checkpoint 2,2025-06-08,Traffic
+SO02913,O0291,Checkpoint 3,2025-06-08,Weather
+SO02921,O0292,Checkpoint 1,2025-06-28,Weather
+SO02922,O0292,Checkpoint 2,2025-06-29,None
+SO02923,O0292,Checkpoint 3,2025-06-29,Traffic
+SO02924,O0292,Checkpoint 4,2025-06-29,Traffic
+SO02931,O0293,Checkpoint 1,2025-06-24,Traffic
+SO02932,O0293,Checkpoint 2,2025-06-24,Weather
+SO02933,O0293,Checkpoint 3,2025-06-24,Sorting Delay
+SO02934,O0293,Checkpoint 4,2025-06-25,Sorting Delay
+SO02935,O0293,Checkpoint 5,2025-06-25,Traffic
+SO02941,O0294,Checkpoint 1,2025-07-08,Sorting Delay
+SO02942,O0294,Checkpoint 2,2025-07-08,Traffic
+SO02943,O0294,Checkpoint 3,2025-07-09,Sorting Delay
+SO02944,O0294,Checkpoint 4,2025-07-09,Traffic
+SO02945,O0294,Checkpoint 5,2025-07-10,Weather
+SO02951,O0295,Checkpoint 1,2025-05-22,Traffic
+SO02952,O0295,Checkpoint 2,2025-05-23,Traffic
+SO02961,O0296,Checkpoint 1,2025-06-12,None
+SO02962,O0296,Checkpoint 2,2025-06-13,None
+SO02971,O0297,Checkpoint 1,2025-06-15,Sorting Delay
+SO02972,O0297,Checkpoint 2,2025-06-15,None
+SO02973,O0297,Checkpoint 3,2025-06-16,None
+SO02974,O0297,Checkpoint 4,2025-06-16,None
+SO02981,O0298,Checkpoint 1,2025-07-20,Traffic
+SO02982,O0298,Checkpoint 2,2025-07-20,Sorting Delay
+SO02983,O0298,Checkpoint 3,2025-07-22,Sorting Delay
+SO02991,O0299,Checkpoint 1,2025-05-31,Weather
+SO02992,O0299,Checkpoint 2,2025-05-31,None
+SO03001,O0300,Checkpoint 1,2025-05-29,Weather
+SO03002,O0300,Checkpoint 2,2025-05-29,Sorting Delay
+SO03003,O0300,Checkpoint 3,2025-05-29,None
+SO03004,O0300,Checkpoint 4,2025-05-29,None
+SO03005,O0300,Checkpoint 5,2025-05-30,Weather

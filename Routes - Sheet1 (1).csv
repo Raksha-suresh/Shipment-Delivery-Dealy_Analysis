@@ -1,0 +1,21 @@
+Route_ID,Start_Location,End_Location,Distance_KM,Average_Travel_Time_Min,Traffic_Delay_Min
+R001,New Aimeechester,Sabrinaland,130.1,212,36
+R002,South Brianchester,Huffmanmouth,191.9,89,22
+R003,East Amy,South Katherinemouth,110.5,190,11
+R004,Ramosside,Stevenview,136.9,32,3
+R005,New Jessica,Davismouth,71.4,191,26
+R006,Lake Robinhaven,East Christopherville,29.4,183,42
+R007,Aaronhaven,Jeanneberg,74.3,263,51
+R008,South Davidborough,Carsonberg,52.4,215,34
+R009,Bellfurt,Lake Marvin,126.4,209,46
+R010,North Aliceside,Lake Jennifer,115,172,40
+R011,Lowemouth,Samanthaborough,170.1,178,25
+R012,West Calvinview,Port Audreyberg,99.4,110,29
+R013,South Johnville,Port Scott,37.3,40,38
+R014,North Edward,Matthewport,125.3,55,58
+R015,South Jenniferfurt,Lindsayton,34.6,115,29
+R016,Lake Kathrynchester,Port Michael,25.1,166,8
+R017,Port Tammybury,Abbottside,24.6,75,8
+R018,Lake Jessicastad,Samuelport,142.2,265,11
+R019,Lake Oscarfurt,New Ivanshire,184.7,49,37
+R020,Juliestad,South Jonathanshire,94.1,171,23

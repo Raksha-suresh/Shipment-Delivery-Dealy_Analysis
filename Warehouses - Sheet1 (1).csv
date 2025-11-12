@@ -1,0 +1,11 @@
+Warehouse_ID,Location,Processing_Time_Min,Dispatch_Time
+W001,Zacharyland,142,0:30:25
+W002,Smithport,73,10:19:56
+W003,Lake Cody,29,6:20:18
+W004,Barnettville,84,2:08:31
+W005,Lake Patriciaside,78,6:14:33
+W006,Petershaven,27,5:24:56
+W007,Port Juliachester,166,12:38:28
+W008,Andersontown,161,11:25:53
+W009,New Crystalborough,170,6:24:50
+W010,Davidshire,171,18:57:42
